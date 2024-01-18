@@ -1,0 +1,4 @@
+export const appDirectoryName = 'note-mark'
+export const fileEncoding = 'utf8'
+
+export const autoSavingTime = 1000
